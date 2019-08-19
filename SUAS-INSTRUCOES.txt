@@ -1,0 +1,4 @@
+Linguagem de programação utilizada: C# 
+Versão do C#: 7.3
+Versão do .Net Core: 2.1
+Aplicação: O projeto é do tipo Console, ao rodar, seria pedido o path do arquivo.
